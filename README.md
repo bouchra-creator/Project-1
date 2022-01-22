@@ -1,7 +1,7 @@
 # Project-1
 
 ### Description du projet
-Dans ce projet , on va crée une Application Node.js on utilisant Docker 
+Dans ce projet , on va créer une Application Node.js on utilisant Docker 
  - première étape : Création d'une image d'application pour un site Web statique qui utilise le framework Express et Bootstrap.
  - Deuxième étape : Création d'un conteneur à l'aide de cette image et le pousser vers Docker Hub.
  - Troisième étape :Extraction de l'image stockée dans le dépôt du Docker Hub et construire un autre conteneur.
