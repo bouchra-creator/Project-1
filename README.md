@@ -6,7 +6,7 @@ Dans ce projet , on va crée une Application Node.js on utilisant Docker
  - Deuxième étape : Création d'un conteneur à l'aide de cette image et le pousser vers Docker Hub.
  - Troisième étape :Extraction de l'image stockée dans le dépôt du Docker Hub et construire un autre conteneur.
 
-### prérequis
+### Prérequis
 Pour suivre ce tutoriel, vous aurez besoin de :
  - Docker installé sur votre serveur/machine.
  - Node.js et npm installés, à suivre.
